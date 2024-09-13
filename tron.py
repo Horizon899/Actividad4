@@ -8,7 +8,7 @@ Exercises
 4. How would you create a computer player?
 """
 
-from turtle import  (
+from turtle import (
     update, ontimer, setup, hideturtle, tracer, listen, onkey, done
 )
 from freegames import square, vector
